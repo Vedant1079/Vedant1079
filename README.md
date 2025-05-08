@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I’m currently working on my Skills.
+I’m currently learning python.
+I’m looking for help with GitHub.
 <!--
 **Vedant1079/Vedant1079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
